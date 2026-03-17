@@ -55,7 +55,7 @@ The dataset used in this project contains transaction details such as:
 ## 📈 Model Used
 
 * Logistic Regression
-* Random Forest (or whichever you used)
+* Random Forest
 
 ---
 
@@ -68,7 +68,7 @@ The model successfully identifies fraudulent transactions with good accuracy and
 ## ▶️ How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/kajal2304069/Transaction-Fraud_detection-ai-ml-datascience-project.git
 
 2. Install dependencies:
    pip install -r requirements.txt
